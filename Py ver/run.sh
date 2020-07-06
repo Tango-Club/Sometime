@@ -1,2 +1,1 @@
-#python test.py
-./somServ
+python test.py
